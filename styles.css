@@ -1,0 +1,21 @@
+body {
+    font-family: 'Work Sans',Sans-Serif;
+}
+
+#country>img{box-shadow:2px 2px 5px rgba(0,0,0,0.1);
+  height:auto;
+  width: auto;
+  float:left;
+}
+
+#country>img{
+  margin-right:1500px;}
+  
+#game>h2:first-child,#game>img:first-child{float:none;}
+  
+nav{background-color:navy;}
+nav>ul>li{display:inline-block;
+  padding:30px;
+}
+nav>ul{text-align:right;}
+nav>ul>li>a{color:white;}
